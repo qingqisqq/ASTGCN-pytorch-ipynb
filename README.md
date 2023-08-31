@@ -9,9 +9,13 @@ This project aims to reproduce the ASTGCN (Attention-based Spatial-Temporal Grap
 ![image](https://github.com/qingqisqq/ASTGCN-pytorch-ipynb/assets/143696962/d3cf2020-fd8c-41fd-880c-9bdc4dae4c50)
 # Results for 1h prediction
 data:PEMS04
+
 Mstgcn :all MAE: 22.56 all RMSE: 35.52
+
 Astgcn :all MAE: 22.12 all RMSE: 35.11
+
 stgcn :all MAE: 25.15 all RMSE: 38.29(from paper)
+
 MAE DROP:12.04% RMSE DROP:8.3%
 # Visualization
 ![image](https://github.com/qingqisqq/ASTGCN-pytorch-ipynb/assets/143696962/92481543-5ab5-474f-b1b0-6fe9e3addea8)
